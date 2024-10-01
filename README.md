@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing GitHub.
+I am an aspiring data analyst.
